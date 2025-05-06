@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import Footer from "./Footer"; // Adjust the path if Footer is in another folder
+import Footer from "./footer";
+// Adjust the path if Footer is in another folder
 
 const testimonials = [
   {
